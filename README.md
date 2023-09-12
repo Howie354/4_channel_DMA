@@ -8,3 +8,6 @@ DMA_ARBITER模块支持四通道轮询仲裁策略，配置寄存器接口采用
 完成设计文档编写，rtl代码coding，编写Testbench，仿真验证正确
 
 //--------------待补充文档--------------
+
+//长传文档
+https://mud-humor-d4e.notion.site/DMA_Design_Note-25c2db452bd14209b3122a18f912f519?pvs=4
